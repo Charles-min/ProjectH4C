@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 language = "python"
+=======
+language = "bash"
+>>>>>>> origin/master
 run = "python main.py"
